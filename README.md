@@ -22,7 +22,7 @@
 ---
 
 <p align="center">
-  <i>"Stay hungry, stay foolish."</i>
+  <i>"Yearn, Earn, Learn."</i>
 </p>
 
 ### 🌐 Connect with me
@@ -34,6 +34,3 @@
 
 ---
 
-<p align="center">
-  <i>"Stay hungry, stay foolish."</i>
-</p>
