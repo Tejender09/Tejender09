@@ -18,24 +18,18 @@
 </p>
 
 ---
+<p align="center">
+  <i>
+    <span style="font-size:40px; color:#FFD700;">"Yearn, Earn, Learn."</span>
+  </i>
+</p>
+
 
 ### 🐍 My Contribution Snake
 <p align="center">
   <img src="https://raw.githubusercontent.com/Tejender09/Tejender09/output/github-contribution-grid-snake.svg" alt="Snake Game" />
 </p>
 
-<p align="center">
-  <img
-    src="YOUR_GENERATED_SVG_URL"
-    alt="Tejender09 Profile Visitors"
-    width="560"
-  />
-</p>
-
-
-<p align="center">
-  <i>"Yearn, Earn, Learn."</i>
-</p>
 
 ---
 
