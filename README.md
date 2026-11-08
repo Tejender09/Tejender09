@@ -1,4 +1,9 @@
-# Hi there! I'm Tejender09 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=2d5a27&height=300&section=header&text=Tejender09&fontSize=90&animation=fadeIn" />
+</p>
+(I changed the color to 2d5a27 which is a deep forest green. This immediately sets a "nature" vibe.)
+
+---
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFD700&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;Problem+Solver;Continuous+Learner;Vibe+Coder" alt="Typing SVG" />
