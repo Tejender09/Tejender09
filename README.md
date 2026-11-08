@@ -13,9 +13,7 @@
   </a>
 </p>
 
-<p align="center">
-  🌿 🍃 🌿 🍃 🌿 🍃 🌿 🍃 🌿 🍃 🌿 🍃 🌿 🍃 🌿
-</p>
+---
 
 ### 🐍 My Contribution Snake
 <p align="center">
