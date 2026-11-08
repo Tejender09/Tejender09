@@ -25,10 +25,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Tejender09&color=blue&style=flat-circle" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=Tejender09&color=36BCF7&style=flat-square" alt="Visitor Count" />
 </p>
-
----
 
 <p align="center">
   <i>"Yearn, Earn, Learn."</i>
@@ -44,7 +42,3 @@
 </p>
 
 ---
-
-<p align="right">
-  <sub>Visitors: <img src="https://komarev.com/ghpvc/?username=Tejender09&color=gray&style=flat-square" /></sub>
-</p>
