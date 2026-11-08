@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/cntbg/Tejender09" />
+  <code> View Count: <img src="https://komarev.com/ghpvc/?username=Tejender09&color=36BCF7&style=flat-square" /> </code>
 </p>
 
 <p align="center">
