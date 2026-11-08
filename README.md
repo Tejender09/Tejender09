@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="https://giphy.com/gifs/nes-mario-PTFRmGOgiPUS4" width="100%" />
-  <h1 align="center">Tejender09</h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=60&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=TEJENDER09;FULL+STACK+DEV;OPEN+SOURCE;PROBLEM+SOLVER" alt="Typing Header" />
 </p>
 
 ---
