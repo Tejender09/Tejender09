@@ -1,7 +1,8 @@
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Tejender09&fontSize=90&animation=fadeIn" />
+  <img src="https://giphy.com/gifs/nes-mario-PTFRmGOgiPUS4" width="100%" />
+  <h1 align="center">Tejender09</h1>
 </p>
+
 ---
 
 <p align="center">
