@@ -1,8 +1,7 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=2d5a27&height=300&section=header&text=Tejender09&fontSize=90&animation=fadeIn" />
-</p>
-(I changed the color to 2d5a27 which is a deep forest green. This immediately sets a "nature" vibe.)
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Tejender09&fontSize=90&animation=fadeIn" />
+</p>
 ---
 
 <p align="center">
