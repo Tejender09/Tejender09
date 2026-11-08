@@ -25,9 +25,8 @@
 </p>
 
 <p align="center">
-  <code> View Count: <img src="https://komarev.com/ghpvc/?username=Tejender09&color=36BCF7&style=flat-square" /> </code>
+  <img src="https://komarev.com/ghpvc/?username=Tejender09&label=VISITORS&color=36BCF7&style=flat-square&abbreviated=true" />
 </p>
-
 <p align="center">
   <i>"Yearn, Earn, Learn."</i>
 </p>
