@@ -15,6 +15,11 @@
 
 ---
 
+### 🐍 My Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tejender09/Tejender09/output/github-contribution-grid-snake.svg" alt="Snake Game" />
+</p>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Tejender09&color=blue&style=flat-circle" alt="Visitor Count" />
 </p>
