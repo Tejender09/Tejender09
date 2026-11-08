@@ -45,3 +45,6 @@
 
 ---
 
+<p align="right">
+  <sub>Visitors: <img src="https://komarev.com/ghpvc/?username=Tejender09&color=gray&style=flat-square" /></sub>
+</p>
