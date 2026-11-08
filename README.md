@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=60&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=+Tejender+Singh+Shekhawat;" alt="Typing Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=60&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines="Tejender+Singh+Shekhawat";" alt="Typing Header" />
 </p>
 
 ---
