@@ -25,7 +25,12 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Tejender09&label=VISITORS&color=36BCF7&style=flat-square&abbreviated=true" />
+  <a href="https://github.com/Tejender09">
+    <img
+      src="https://komarev.com/ghpvc/?username=Tejender09&label=PROFILE%20VISITORS&color=0891B2&style=for-the-badge"
+      alt="Profile Visitors"
+    />
+  </a>
 </p>
 <p align="center">
   <i>"Yearn, Earn, Learn."</i>
