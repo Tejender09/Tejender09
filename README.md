@@ -16,7 +16,7 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Tejender09&color=blue&style=flat-square" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=Tejender09&color=blue&style=flat-circle" alt="Visitor Count" />
 </p>
 
 ---
