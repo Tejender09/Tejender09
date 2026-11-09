@@ -32,7 +32,7 @@ I enjoy working at the intersection of **Artificial Intelligence, Software Engin
 
 
 <p align="center">
-  <img src="koi/koi.gif" width="1028" height="512" alt="My koi" />
+  <img src="koi/koi.gif" width="512" height="512" alt="My koi" />
 </p>
 
 ---
