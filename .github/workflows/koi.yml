@@ -1,0 +1,35 @@
+name: GitHub Profile Koi
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs every 24 hours
+  workflow_dispatch: # Allows you to run it manually from the Actions tab
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Generate Koi Fish
+        uses: lowlighter/metrics@master
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_islands: false
+          plugin_activity: false
+          plugin_habits: false
+          plugin_languages: false
+          plugin_commits: false
+          plugin_projects: false
+          plugin_repositories: false
+          # This is the magic plugin that creates the Koi animation
+          plugin_koi: true
+          template: "full"
+
+      - name: Deploy to Output Branch
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: .
