@@ -80,18 +80,6 @@ Explore my other experiments, applications, and development work:
 
 [![Repositories](https://img.shields.io/badge/Explore_My_Repositories-181717?style=for-the-badge&logo=github)](https://github.com/Tejender09?tab=repositories)
 
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Tejender09&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Statistics"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tejender09&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
-</p>
-
-<p align="center">
-  <img width="90%" src="https://streak-stats.demolab.com?user=Tejender09&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
-</p>
 
 ---
 
