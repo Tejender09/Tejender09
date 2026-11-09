@@ -30,6 +30,15 @@ I enjoy working at the intersection of **Artificial Intelligence, Software Engin
 
 ---
 
+
+### 🎏 My Zen Garden
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tejender09/Tejender09/output/koi.svg" alt="Koi Fish Animation" />
+</p>
+
+---
+
+
 ## Tech Stack
 
 ### Languages
