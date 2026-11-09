@@ -31,9 +31,8 @@ I enjoy working at the intersection of **Artificial Intelligence, Software Engin
 ---
 
 
-### 🎏 My Zen Garden
 <p align="center">
-  <img src="koi/koi.gif" width="256" alt="My koi" />
+  <img src="koi/koi.gif" width="1028" alt="My koi" />
 </p>
 
 ---
