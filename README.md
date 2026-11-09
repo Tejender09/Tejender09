@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Tejender Singh Shekhawat
+# Hey, I'm Tejender Singh Shekhawat
 
 ### AI & Software Developer | Computer Science & Artificial Intelligence
 
@@ -8,17 +8,17 @@ I enjoy working at the intersection of **Artificial Intelligence, Software Engin
 
 ---
 
-## 🚀 About Me
+## About Me
 
-- 🎓 B.Tech student specializing in Computer Science & Artificial Intelligence.
-- 🤖 Exploring LLMs, RAG architectures, local AI systems, and autonomous agents.
-- 💻 Building full-stack applications and Android-based projects.
-- 🔬 Interested in system architecture, reverse engineering, and experimental technologies.
-- 🛠️ Learning by building, breaking, debugging, and improving real-world applications.
+- B.Tech student specializing in Computer Science & Artificial Intelligence.
+- Exploring LLMs, RAG architectures, local AI systems, and autonomous agents.
+- Building full-stack applications and Android-based projects.
+- Interested in system architecture, reverse engineering, and experimental technologies.
+- Learning by building, breaking, debugging, and improving real-world applications.
 
 ---
 
-## 🧠 Areas of Interest
+## Areas of Interest
 
 - Artificial Intelligence & Machine Learning
 - Large Language Models (LLMs)
@@ -30,7 +30,7 @@ I enjoy working at the intersection of **Artificial Intelligence, Software Engin
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
